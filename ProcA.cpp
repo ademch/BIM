@@ -1,4 +1,4 @@
 float CalcA(float f)
 {
-return Math.sin(f);
+return Math.cos(f);
 }

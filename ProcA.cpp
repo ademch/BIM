@@ -1,6 +1,6 @@
 float CalcA(float f)
 {
-return Math.cos(f);
+return Math.cos(2*f);
 }
 }
 
